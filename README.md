@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ManantsoaRayan/interactive-rating-component.git]
-- Live Site URL: [https://manantsoarayan.github.io/interactive-rating-component/]
+- Solution URL: [https://github.com/ManantsoaRayan/interactive-rating-component.git](https://github.com/ManantsoaRayan/interactive-rating-component.git)
+- Live Site URL: [https://manantsoarayan.github.io/interactive-rating-component/](https://manantsoarayan.github.io/interactive-rating-component/)
 
 ## My process
 
